@@ -1,0 +1,13 @@
+C:\Users\kassem\Work\Me\Quran\QuranToNeo4j\QuranToNeo4j\bin\Debug\QuranToNeo4j.exe.config
+C:\Users\kassem\Work\Me\Quran\QuranToNeo4j\QuranToNeo4j\bin\Debug\quran.txt
+C:\Users\kassem\Work\Me\Quran\QuranToNeo4j\QuranToNeo4j\bin\Debug\QuranToNeo4j.exe
+C:\Users\kassem\Work\Me\Quran\QuranToNeo4j\QuranToNeo4j\bin\Debug\QuranToNeo4j.pdb
+C:\Users\kassem\Work\Me\Quran\QuranToNeo4j\QuranToNeo4j\bin\Debug\Neo4jClient.dll
+C:\Users\kassem\Work\Me\Quran\QuranToNeo4j\QuranToNeo4j\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kassem\Work\Me\Quran\QuranToNeo4j\QuranToNeo4j\bin\Debug\Neo4jClient.pdb
+C:\Users\kassem\Work\Me\Quran\QuranToNeo4j\QuranToNeo4j\bin\Debug\Neo4jClient.xml
+C:\Users\kassem\Work\Me\Quran\QuranToNeo4j\QuranToNeo4j\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kassem\Work\Me\Quran\QuranToNeo4j\QuranToNeo4j\obj\Debug\QuranToNeo4j.csprojResolveAssemblyReference.cache
+C:\Users\kassem\Work\Me\Quran\QuranToNeo4j\QuranToNeo4j\obj\Debug\QuranToNeo4j.exe
+C:\Users\kassem\Work\Me\Quran\QuranToNeo4j\QuranToNeo4j\obj\Debug\QuranToNeo4j.pdb
+C:\Users\kassem\Work\Me\Quran\QuranToNeo4j\QuranToNeo4j\bin\Debug\quran-clean.txt
