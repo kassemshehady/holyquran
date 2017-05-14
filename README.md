@@ -27,6 +27,12 @@ https://github.com/kassemshehady/holyquran/blob/master/QuranToNeo4j/QuranToNeo4j
 
 Done!
 
+
+# For Demo
+Open http://hobby-bljmaflhoeaggbkekkblohpl.dbs.graphenedb.com:24789
+User: neo4j
+Password: b.NV2MkJEnVwFb.RNQFSPAoR7MWAjlH
+
 # How it works
 
 The system links every word to the next word that occures in the same AYA
