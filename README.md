@@ -29,8 +29,11 @@ Done!
 
 
 # For Demo
+
 Open http://hobby-bljmaflhoeaggbkekkblohpl.dbs.graphenedb.com:24789
+
 User: neo4j
+
 Password: b.NV2MkJEnVwFb.RNQFSPAoR7MWAjlH
 
 # How it works
