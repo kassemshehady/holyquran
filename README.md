@@ -27,6 +27,9 @@ https://github.com/kassemshehady/holyquran/blob/master/QuranToNeo4j/QuranToNeo4j
 
 Done!
 
+# How it works
+
+The system links every word to the next word that occures in the same AYA
 
 # Top Words 
 
@@ -59,6 +62,7 @@ MATCH (w:Word)-[r:NEXT]->() RETURN w.title as t ,Count(r) as c order by c desc L
 أو	211
 
 لهم	205
+
 
 
 
